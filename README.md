@@ -2,6 +2,8 @@
 
 ## Skills Demonstrated
     Pandas
+    EDA
+    Matrices
     Sklearn
     Binarizer
     Data Obfuscation
