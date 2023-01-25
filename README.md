@@ -7,7 +7,7 @@
     Sklearn
     Binarizer
     Data Obfuscation
-    F1 score, accuracy score, AUC-ROC, R2, MSE
+    F1 score, Accuracy score, AUC-ROC, R2, MSE
     KNeighbors Classifier
     Decision Tree Classifier
     Random Forest Classifier
