@@ -1,5 +1,18 @@
 # Sure-Tomorrow-Insurance
 
+## Skills Demonstrated
+    Pandas
+    Sklearn
+    Binarizer
+    Data Obfuscation
+    F1 score, accuracy score, AUC-ROC, R2, MSE
+    KNeighbors Classifier
+    Decision Tree Classifier
+    Random Forest Classifier
+    Cross Validation
+    Plotly Express
+
+
 ## Purpose
 The Sure Tomorrow insurance company wants to solve several tasks with the help of Machine Learning and we are asked to evaluate that possibility.
 
